@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - Currently focused on
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{eugenek07}/count.svg)
