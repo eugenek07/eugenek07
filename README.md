@@ -1,4 +1,4 @@
-### Hi there 👋
+### Lil 'bout Me 👽
 
 <!--
 **eugenek07/eugenek07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently focused on
+- Undergraduate EECS Student
+- Reach me here: eugene.k07@berkeley.edu
+- Current Interests: Decentralized Finance, Website Full Stack Development, Extended Reality Games
 
-![Visitor Count](https://profile-counter.glitch.me/{eugenek07}/count.svg)
