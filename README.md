@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Undergraduate EECS Student
+- Undergraduate EECS Student @ UCBerkeley
 - Reach me here: eugene.k07@berkeley.edu
 - Current Interests: Computer Security, Game Development, Decentralized Finance, Website Full Stack Development
 
