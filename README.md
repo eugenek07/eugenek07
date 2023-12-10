@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - Undergraduate EECS Student
 - Reach me here: eugene.k07@berkeley.edu
-- Current Interests: Decentralized Finance, Website Full Stack Development, Extended Reality Games
+- Current Interests: Computer Security, Game Development, Decentralized Finance, Website Full Stack Development
 
