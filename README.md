@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 - Undergraduate EECS Student @ UCBerkeley
 - Reach me here: eugene.k07@berkeley.edu
 - Current Interests: Computer Security, Game Development, Decentralized Finance, Website Full Stack Development
-
-![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenek07&show_icons=true&theme=transparent)
