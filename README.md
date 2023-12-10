@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Reach me here: eugene.k07@berkeley.edu
 - Current Interests: Computer Security, Game Development, Decentralized Finance, Website Full Stack Development
 
-[![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenek07)](https://github.com/eugenek07/github-readme-stats icons=true&theme=transparent))
+![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugenek07&show_icons=true&theme=transparent)
